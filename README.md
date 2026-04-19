@@ -67,3 +67,5 @@ It demonstrates best practices used in real-world ML workflows such as handling 
 1. Clone the repository:
 ```bash
 git clone https://github.com/Gauri-2904/titanic-ml-project.git
+# this is its clab Link
+https://colab.research.google.com/github/Gauri-2904/titanic-ml-project/blob/main/TitanicSurvivalPrediction.ipynb
